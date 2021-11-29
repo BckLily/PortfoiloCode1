@@ -1,0 +1,5 @@
+"Monster_UID","Monster_Name","Monster_Hp","Monster_Armour","Monster_MoveSpeed","Monster_Damage","Monster_AttackDistance","Monster_AttackSpeed","Monster_Exp","Monster_SkillUID"
+"050000000","Zombie","20","0","4","10","2","25","1",NULL
+"050000001","BigSpider","20","0","4","12","25","15","1",NULL
+"050000002","Clutch","100","5","8","9","2","40","2","040000000"
+"050000003","Mobydic","300","5","2","20","2","10","4",NULL
